@@ -42,9 +42,9 @@
   "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs-core": "1.0.3",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "tfjs-image-recognition-base": "^0.6.0",
-    "tslib": "^1.9.3"
+    "tslib": "^1.14.1"
   },
   "devDependencies": {
     "@tensorflow/tfjs-node": "^1.0.2",
